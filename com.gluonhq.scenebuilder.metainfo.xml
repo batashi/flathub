@@ -5,6 +5,8 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>0BSD</project_license>
   <developer_name>Gluon HQ</developer_name>
+  <content_rating type="oars-1.1"/>
+  
   <summary>Scene Builder is an open source tool that allows for drag and drop design of JavaFX user interfaces.</summary>
   <description>
     <p>Integrated: Scene Builder works with the JavaFX ecosystem - official controls, community projects, and Gluon offerings including Gluon Mobile, Gluon Desktop, and Gluon CloudLink.</p>
@@ -27,9 +29,6 @@
   <url type="help">https://github.com/gluonhq/scenebuilder/wiki</url>
   <url type="bugtracker">https://github.com/gluonhq/scenebuilder/issues</url>
   <url type="donation">https://gluonhq.com/pricing/</url>
-  
-  
-  <content_rating type="oars-1.1"/>
   
   <releases>
     <release date="2022-04-01" version="18.0.0"/>
